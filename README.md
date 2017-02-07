@@ -9,22 +9,6 @@ features in a responsible manner.
 [React]: https://facebook.github.io/react/
 [Redux]: redux.js.org
 
-## Credit
-
-Much of this style guide is based on the Redux documentation and ideas from [Dan Abramov] in particular. Furthermore, it
-was inspired by the [Angular Style Guide] by John Papa.
-
-[Dan Abramov]: https://github.com/gaearon
-[Angular Style Guide]: https://github.com/johnpapa/angular-styleguide
-
-## Contributing
-
-This guide is opinionated. You'll probably disagree on some points. Feel free to [open an issue] or file a pull request
-if you think something should be rephrased or changed. Please include a detailed reasoning about why your way is better,
-preferably with links to other sources. I change my mind often (for the better), so please convince me.
-
-[open an issue]: https://github.com/ghengeveld/react-redux-styleguide/issues/new
-
 ## Table of Contents
 
 - [ES6 and beyond](#es6-and-beyond)
